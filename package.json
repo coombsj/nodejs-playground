@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-playground",
+  "version": "1.0.0",
+  "description": "Playground for learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coombsj/nodejs-playground.git"
+  },
+  "author": "Jonathan Coombs",
+  "bugs": {
+    "url": "https://github.com/coombsj/nodejs-playground/issues"
+  },
+  "homepage": "https://github.com/coombsj/nodejs-playground#readme"
+}
