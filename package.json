@@ -10,8 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/coombsj/nodejs-playground.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jonathan Coombs",
   "bugs": {
     "url": "https://github.com/coombsj/nodejs-playground/issues"
   },
